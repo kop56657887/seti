@@ -1,0 +1,114 @@
+/* Основні стилі */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom,#0088cc ,#FFFFFF);
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+/* Хедер */
+header {
+    
+    padding: 20px;
+    text-align: center;
+}
+
+header{
+    margin: 0;
+    color: #00aaff;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Головний блок */
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    color: #FFFFFF; 
+}
+
+.hero h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 1.2em;
+}
+
+.btn {
+    display: inline-block;
+    background: #00aaff;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: #0088cc;
+}
+
+/* Футер */
+footer {
+   
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+.cnopka{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 30px;
+    color: white;
+    background-color: #00aaff;
+    border-radius: 20px;
+}
+.cnopka:hover{
+    background-color: #0088cc;
+}
+.cnopku{
+    margin-top: 30px;
+}
+.photo{
+    margin-top: 20px;
+   
+    
+    
+}
+h1{
+    color: #FFFFFF;
+    
+}
+.ty{
+    color:white ; 
+}
+.nomber{
+    background:rgb(251, 172, 3) ;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-bottom:20px ;
+    color: white;
+    border-radius: 25px;
+    font-size: 15px; 
+}
+.image {
+    background-image: url('https://cdn-media.choiceqr.com/prod-eat-pizza-factory/templates/thumbnail_sGtkeZk-YCCrZCk-NeubXLm_Z-D-H.webp'); /* Приклад прямого посилання */
+    background-position: center;
+    background-size: cover;
+}

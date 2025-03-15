@@ -1,0 +1,183 @@
+/* Основні стилі */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #0088cc,#FFFFFF,#22223b);
+    color: white;
+}
+
+/* Хедер */
+header {
+    
+    padding: 20px;
+    text-align: center;
+}
+
+header{
+    margin: 0;
+    color: #00aaff;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Головний блок */
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: #22223b;
+}
+
+.hero h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 1.2em;
+}
+
+.btn {
+    display: inline-block;
+    background: #00aaff;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: #0088cc;
+}
+
+/* Футер */
+footer {
+    
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+.cnopka{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 30px;
+    color: white;
+    background-color: #00aaff;
+    border-radius: 20px;
+}
+.cnopka:hover{
+    background-color: #0088cc;
+}
+.cnopku{
+    margin-top: 30px;
+}
+.photo{
+    width: 250px;
+    height: 250px;
+}
+.photo1{
+    width: 250px;
+    height: 250px;
+}
+.photo2{
+    width: 250px;
+    height: 250px;
+}
+.photo3{
+    width: 250px;
+    height: 250px;
+}
+.prob{
+    margin-right: 100px;
+}
+
+
+
+
+.for{
+    background-color: grey;
+    border-radius: 15px;
+    color: white;
+  
+   
+}
+.jjj{
+    font-size:20px ;
+    font-weight: bold;
+}
+.tovar a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px dotted black;
+    font-size: 20px;
+    
+}
+
+.tovar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 700px;
+    margin: 0 auto;
+    border-radius: 15px;
+    
+}
+
+.prooduct {
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 25px;
+    padding-right: 60px;
+    border: 5px double white;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background-color: grey;
+    border-radius: 30px;
+}
+
+/* Фото піци */
+.new{
+    width: 200px;
+    height: 200px;
+    margin-right: 60px;
+}
+/*спільний клас з посиланням і тегом P в меню*/
+.us{
+    margin-left: 42px;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right:20px ;
+    padding-top:0 ;
+    padding-bottom:0 ;
+    color: white;
+    background-color: #00aaff;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.us:hover{
+    background-color: #0088cc;
+}
+.text{
+    color:white;
+}
+h1{
+    color: white;
+}
+

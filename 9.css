@@ -1,0 +1,77 @@
+html{
+    display: flex;
+}
+.cnopka{
+    background-color: rgb(228, 88, 75);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 30px;
+    color: white;
+    border-radius:20px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    margin-right: 35px;
+ 
+   
+}
+.cnopka:hover{
+    background-color:black ;
+}
+.photo{
+    width: 600px ;
+    height: 600px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 0;
+}
+.text{
+    text-align: center;
+    color: black ;
+    background-color: #00aaff;
+    font-size: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+    border-radius: 15px;
+    padding-top:15px ;
+    padding-bottom: 15px;
+  
+
+}
+.background{
+    background-color:/*#00aaff*/   /*rgb(0, 82, 255)*/  rgb(255, 120, 41) ;
+    border-radius: 15px;
+    padding-bottom:60px ;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+
+}
+.background.photo{
+    background-color:rgb(0, 82, 255) ;
+    border-radius: 50%;
+}
+.cost{
+    font-size: 25px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+
+ 
+
+}
+.colo{
+    background-color: #00aaff;
+    border-radius:1000% ;
+    margin-right: 250px;
+    margin-left: 800px; 
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 100px;
+    padding-left: 20px;
+}
+.back{
+    font-size:25px ;
+    text-decoration: none;
+    color: black;
+
+}
